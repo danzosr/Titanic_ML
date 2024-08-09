@@ -1,6 +1,6 @@
 # Titanic Machine Learning
 
-### Integrantes del equipo 3:
+### Integrantes del Equipo 3:
 | Nombre | Matrícula |
 | ----------- | ----------- |
 | Fernando Bustos Monsiváis | A00829931 |
