@@ -1,1 +1,1 @@
-# Titanic_AI
+# Titanic Machine Learning
