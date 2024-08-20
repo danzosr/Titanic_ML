@@ -17,7 +17,7 @@ Aunque la suerte siempre es un aspecto a considerar en una situación de vida o 
 
 # Contenido del Repositorio
 
-Este repositorio contiene el trabajo realizado como parte del proyecto relacionado con el análisis de datos del Titanic. A continuación se describe el contenido de cada directorio y archivo:
+Este repositorio contiene el trabajo realizado como parte del proyecto relacionado con el análisis de datos del Titanic. A continuación, se describe el contenido de cada directorio y archivo:
 
 ## Directorios
 
