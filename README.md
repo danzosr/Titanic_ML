@@ -15,17 +15,27 @@ El hundimiento del Titanic es una de las catástrofes marítimas más infames de
 
 Aunque la suerte siempre es un aspecto a considerar en una situación de vida o muerte, en el caso del Titanic pareciera ser que algunos grupos de personas tenían mejores probabilidades de sobrevivir que otros. Debido a lo anterior, es de interés analizar y determinar, a partir de datos de pasajeros, qué tipo de personas tenían más oportunidades de sobrevivir.
 
-## Contenido del Repositorio
+# Contenido del Repositorio
 
-En este repositorio, se encuentran los siguientes archivos:
+Este repositorio contiene el trabajo realizado como parte del proyecto relacionado con el análisis de datos del Titanic. A continuación se describe el contenido de cada directorio y archivo:
 
-- **Momento de Retroalimentación - Equipo 3.pdf**: Un reporte detallado que contiene la justificación del equipo sobre las decisiones tomadas en la limpia de datos.
-  
-- **entregable1.ipynb**: Un cuaderno de Jupyter que contiene el script utilizado para la limpieza de los datos del Titanic. Este script procesa los datos originales, maneja valores faltantes, y realiza transformaciones necesarias para preparar los datos para el análisis.
+## Directorios
 
-- **train.csv**: El archivo CSV con los datos de entrenamiento originales del Titanic.
+### Código
+En este directorio se encuentra todo el código fuente relacionado con el proyecto, incluyendo los scripts y notebooks utilizados para el análisis y procesamiento de datos.
 
-- **train_cleaned.csv**: El archivo CSV que contiene los datos de prueba después de haber pasado por el proceso de limpieza. 
+- **Entregable_1.ipynb**: Un cuaderno de Jupyter que contiene el análisis, procesamiento de datos y los pasos iniciales del proyecto. Este cuaderno incluye la limpieza y transformación de los datos originales, así como la implementación de algunos modelos básicos.
+
+- **train.csv**: El archivo CSV que contiene los datos originales de entrenamiento del Titanic.
+
+- **train_cleaned.csv**: Este archivo CSV contiene los datos de entrenamiento después de haber sido limpiados. Incluye todas las transformaciones y el manejo de valores faltantes necesarios para que los datos estén listos para el modelado.
+
+- **train_filled.csv**: Similar al archivo anterior, pero este contiene los datos donde los valores faltantes han sido llenados o imputados, permitiendo análisis adicionales sin necesidad de manejo posterior de datos faltantes.
+
+### Documentación
+Este directorio contiene la documentación que respalda el trabajo realizado en el proyecto.
+
+- **Momento de Retroalimentación - Equipo 3.pdf**: Un reporte detallado que contiene la retroalimentación del equipo sobre el proyecto y las decisiones tomadas durante el desarrollo.
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 <!-- Por el badge! =) -->
