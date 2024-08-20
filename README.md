@@ -25,7 +25,7 @@ En este repositorio, se encuentran los siguientes archivos:
 
 - **train.csv**: El archivo CSV con los datos de entrenamiento originales del Titanic.
 
-- **test_cleaned.csv**: El archivo CSV que contiene los datos de prueba después de haber pasado por el proceso de limpieza. 
+- **train_cleaned.csv**: El archivo CSV que contiene los datos de prueba después de haber pasado por el proceso de limpieza. 
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 <!-- Por el badge! =) -->
