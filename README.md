@@ -24,13 +24,14 @@ Este repositorio contiene el trabajo realizado como parte del proyecto relaciona
 ### Código
 En este directorio se encuentra todo el código fuente relacionado con el proyecto, incluyendo los scripts y notebooks utilizados para el análisis y procesamiento de datos.
 
-- **Entregable_1.ipynb**: Un cuaderno de Jupyter que contiene el análisis, procesamiento de datos y los pasos iniciales del proyecto. Este cuaderno incluye la limpieza y transformación de los datos originales, así como la implementación de algunos modelos básicos.
+- **Entregable_1.ipynb**: Un cuaderno de Jupyter que contiene el análisis, procesamiento de datos y los pasos iniciales del proyecto. Este cuaderno incluye la limpieza y transformación de los datos originales.
 
 - **train.csv**: El archivo CSV que contiene los datos originales de entrenamiento del Titanic.
 
+- **train_filled.csv**: Similar al archivo anterior, pero este contiene los datos donde los valores faltantes han sido llenados o imputados, permitiendo análisis adicionales sin necesidad de manejo posterior de datos faltantes.
+
 - **train_cleaned.csv**: Este archivo CSV contiene los datos de entrenamiento después de haber sido limpiados. Incluye todas las transformaciones y el manejo de valores faltantes necesarios para que los datos estén listos para el modelado.
 
-- **train_filled.csv**: Similar al archivo anterior, pero este contiene los datos donde los valores faltantes han sido llenados o imputados, permitiendo análisis adicionales sin necesidad de manejo posterior de datos faltantes.
 
 ### Documentación
 Este directorio contiene la documentación que respalda el trabajo realizado en el proyecto.
