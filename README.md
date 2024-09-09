@@ -15,9 +15,11 @@ El hundimiento del Titanic es una de las catástrofes marítimas más infames de
 Aunque la suerte siempre es un aspecto a considerar en una situación de vida o muerte, en el caso del Titanic pareciera ser que algunos grupos de personas tenían mejores probabilidades de sobrevivir que otros. Debido a lo anterior, es de interés analizar y determinar, a partir de datos de pasajeros, qué tipo de personas tenían más oportunidades de sobrevivir.
 
 # Contenido del Repositorio
-En la carpeta _Entregable 1_ está el código y la documentación del _Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos_.
+En la carpeta _Entregable 1_, está el código y la documentación del _Momento de Retroalimentación: Reto Limpieza del Conjunto de Datos_.
 
-En la carpeta _Entregable 2_ está el código y la documentación del _Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo_.
+En la carpeta _Entregable 2_, está el código y la documentación del _Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo_.
+
+En la carpeta _Entregable 3_, está el código y la documentación del _Momento de Retroalimentación: Reto Evaluación y Refinamiento de modelo_.
 
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
